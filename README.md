@@ -16,8 +16,8 @@
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/kaurcev/minecraft-test-bot.git
-cd minecraft-bot
+git clone https://github.com/kaurcev/minecraft-bot-nodejs.git
+cd minecraft-bot-nodejs
 ```
 2.  **Установите зависимости**
 ```bash
