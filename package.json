@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alexsandr Kaurcev",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
